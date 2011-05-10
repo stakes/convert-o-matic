@@ -11,7 +11,3 @@ h2. Let's Get Started
 * Clone the repo or download everything as a .zip file
 * Customize to your heart's content
 * Stop making friends and start making money
-
-h2. License
-
-See LICENSE.
