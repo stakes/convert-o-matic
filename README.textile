@@ -2,12 +2,13 @@ h1. Convert-o-matic
 
 Inspired by KissMetrics' "Anatomy of a Perfect Landing Page" (http://blog.kissmetrics.com/landing-page-design-infographic/)
 Built with HTML5 Boilerplate (http://html5boilerplate.com/)
+With lovely gradient buttons from (http://webdesignerwall.com/tutorials/css3-gradient-buttons)
 By Jay Stakelon
 
-Convertomatic is a collection of landing page templates inspired by KissMetrics' article "Anatomy of a Perfect Landing Page." And by "inspired", I mean a nearly one-for-one translation of the best practices described there into a few customizable HTML5 landing page templates.
+Convertomatic is a collection of landing page templates inspired by KissMetrics' article "Anatomy of a Perfect Landing Page." And by "inspired", I mean a nearly one-for-one translation of the best practices described there into a customizable HTML5 landing page template.
 
 h2. Let's Get Started
 
 * Clone the repo or download everything as a .zip file
 * Customize to your heart's content
-* Stop making friends and start making money
+* Start getting that CASH MONEY
