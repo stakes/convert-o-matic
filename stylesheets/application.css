@@ -4,3 +4,283 @@
  * Author: Jay Stakelon
  */
 
+body {
+    
+    text-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px
+    
+}
+
+h1 {
+    
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 48px;
+    letter-spacing: -1px;
+
+}
+
+h2 {
+    
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -1px;
+    font-weight: bold;
+    
+}
+
+p, ul {
+    
+    font-size: 15px;
+    line-height: 21px;
+    
+}
+
+p, h3 {
+    
+    margin: 12px 0;
+    
+}
+
+ul {
+    
+    margin: 0 0 0 18px;
+}
+
+li {
+    
+    font-size: 18px;
+    margin-bottom: 6px;
+    font-weight: bold;
+    
+}
+
+
+#header {
+    
+    height: 80px;
+    background-color: rgb(255,255,255);
+    
+}
+
+#header_nav {
+    
+    text-align: right;
+    padding-top: 28px;
+    
+}
+
+#header_nav ul {
+    
+    list-style-type: none;
+    
+}
+
+#header_nav ul li {
+    
+    display: inline;
+    margin-left: 24px;
+    
+}
+
+#header_nav ul li a {
+    
+    font-size: 14px;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+}
+
+#top_container {
+    
+    background-color: rgb(0,131,177);
+    padding: 24px 0;
+    border-top: 1px solid rgb(55,55,55);        
+    border-bottom: 1px solid rgb(55,55,55);    
+    
+}
+
+#headline h1 {
+    
+    color: #fefefe;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.25);
+    
+}
+
+#headline h1 strong {
+    
+    font-weight: bold;
+    
+}
+
+#info_header_media {
+    
+    padding: 12px 0;
+    
+}
+
+#info_header {
+    
+    color: #fefefe;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.25);    
+    padding: 24px 0;
+    
+}
+
+a.cta {
+    
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 24px;
+    
+}
+
+#main {
+    
+    background-color: rgb(240,240,240);
+    
+}
+
+.page_section {
+    
+    padding: 18px 0;
+    
+}
+
+hr.section_break {
+    
+    width: 900px;
+    margin: 0 auto;
+    height: 1px;
+    background-color: rgb(180,180,180);
+    border: 0;
+    border-bottom: 1px solid rgb(255,255,255);
+    
+}
+
+.press_container {
+    
+    margin-top: 24px;
+    background-color: rgb(225,225,225);
+    padding: 12px 0;
+    
+}
+
+.press_container p {
+    
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 0 1px 0 rgb(255,255,255);
+    color: rgb(120,120,120);
+    
+}
+
+.page_section img.right {
+    
+    margin-top: 12px;
+    width: 130px;
+    float: left;
+    
+}
+
+.page_section .text {
+    
+    display: inline;
+    font-size: 15px;
+    
+}
+
+.quote_container {
+    
+    padding: 0 0 24px;
+    background-image: url('/images/testimonial_corner.png');
+    background-repeat: no-repeat;
+    background-position: 36px bottom;
+    margin: 12px 0;
+    
+}
+
+.quote_container p {
+    
+    background-color: rgb(225,225,225);
+    padding: 12px;
+    margin: 0;
+    
+}
+
+.quote_attribution {
+   
+   margin-top: -24px;
+    
+}
+
+.quote_attribution img {
+    
+    float: left;
+    margin-left: 70px;
+    margin-right: 10px;
+    height: 48px;
+    width: 48px;
+    
+}
+
+.quote_name {
+    
+    display: block;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 21px;
+    padding-top: 4px;
+    
+}
+
+.quote_title {
+    
+    display: block;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: oblique;
+    
+}
+
+
+footer {
+    
+    background-color: rgb(65,65,65);
+    padding: 36px 0 60px;
+    
+}
+
+footer ul {
+    
+    list-style-type: none;
+    margin: 0;
+    
+}
+
+footer li {
+    
+    font-size: 13px;
+    
+}
+
+footer a:link, footer a:visited {
+    
+    color: rgb(210,210,210);
+    text-decoration: none;
+    
+}
+
+footer a:hover, footer a:active {
+    
+    color: rgb(250,250,250);    
+    
+}
+
+footer p {
+    
+    font-size: 12px;
+    color: rgb(150,150,150);
+    
+}
