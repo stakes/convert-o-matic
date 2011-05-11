@@ -1,14 +1,35 @@
 h1. Convert-o-matic
 
-Inspired by KissMetrics' "Anatomy of a Perfect Landing Page" (http://blog.kissmetrics.com/landing-page-design-infographic/)
-Built with HTML5 Boilerplate (http://html5boilerplate.com/)
-With lovely gradient buttons from (http://webdesignerwall.com/tutorials/css3-gradient-buttons)
-By Jay Stakelon
+Inspired by KissMetrics' "Anatomy of a Perfect Landing Page":http://blog.kissmetrics.com/landing-page-design-infographic/
+Built with "HTML5 Boilerplate":http://html5boilerplate.com/
+With lovely gradient buttons from "Web Designer Wall":http://webdesignerwall.com/tutorials/css3-gradient-buttons
+And placeholder icons and images from "Glyphish":http://glyphish.com/
 
-Convertomatic is a collection of landing page templates inspired by KissMetrics' article "Anatomy of a Perfect Landing Page." And by "inspired", I mean a nearly one-for-one translation of the best practices described there into a customizable HTML5 landing page template.
+Convert-o-matic is a landing page template inspired by KissMetrics' article "Anatomy of a Perfect Landing Page." And by "inspired", I mean a nearly one-for-one translation of the best practices described there into a customizable HTML5 landing page template.
 
-h2. Let's Get Started
+h2. Get Started Now for FREE
 
 * Clone the repo or download everything as a .zip file
 * Customize to your heart's content
 * Start getting that CASH MONEY
+
+h2. Learn More
+
+Convert-o-matic comes with everything you need to crank out a landing page for your product or service in seconds.
+
+Open up index.html and replace all of the placeholder content with your own.
+
+You can easily change color schemes by appending classes to the body. Try customizing:
+
+* Button and link styles (orange, black, gray, white, red, blue, green, pink, rose)
+* Main CTA background style (orangebg, blackbg, graybg, whitebg, redbg, bluebg, greenbg, pinkbg, rosebg)
+* Adding a gradient to the CTA background with the 'gradient' body class
+* Altering the entire layout to a more open style with the 'whitespaced' body class
+
+So, for example, you'll end up with a lovely dark, gradiated CTA area with green buttons and links if you class your body like so:
+
+@<body class="blackbg gradient green">@
+
+There's also a sample whitespaced.html file that demonstrates what that option looks like. It contains a few super-minor adjustments that work better with the "whitespaced" layout option.
+
+Also included are a few .psd files used for the placeholder images so you can drop your own assets into the landing page with a minimum of effort.

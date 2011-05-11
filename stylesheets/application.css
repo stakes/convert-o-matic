@@ -406,14 +406,14 @@ body.redbg.gradient #top_container {
     
 }
 
-body.rosybg #top_container {
+body.rosebg #top_container {
     
     color: #fae7e9;
 	background: #da5867;
 	
 }
 
-body.rosybg.gradient #top_container {
+body.rosebg.gradient #top_container {
 
 	background: -webkit-gradient(linear, left top, left bottom, from(#f16c7c), to(#bf404f));
 	background: -moz-linear-gradient(top,  #f16c7c,  #bf404f);

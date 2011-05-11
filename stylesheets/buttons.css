@@ -205,11 +205,11 @@
 }
 
 /* rosy */
-.rosy a {
+.rose a {
     color: #da5867;
 }
 
-.rosy .button {
+.rose .button {
 	color: #fae7e9;
 	border: solid 1px #b73948;
 	background: #da5867;
@@ -217,13 +217,13 @@
 	background: -moz-linear-gradient(top,  #f16c7c,  #bf404f);
 	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f16c7c', endColorstr='#bf404f');
 }
-.rosy .button:hover {
+.rose .button:hover {
 	background: #ba4b58;
 	background: -webkit-gradient(linear, left top, left bottom, from(#cf5d6a), to(#a53845));
 	background: -moz-linear-gradient(top,  #cf5d6a,  #a53845);
 	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#cf5d6a', endColorstr='#a53845');
 }
-.rosy .button:active {
+.rose .button:active {
 	color: #dca4ab;
 	background: -webkit-gradient(linear, left top, left bottom, from(#bf404f), to(#f16c7c));
 	background: -moz-linear-gradient(top,  #bf404f,  #f16c7c);
