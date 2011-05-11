@@ -72,7 +72,6 @@ button {  width: auto; overflow: visible; }
 body, select, input, textarea { color: #444; }
 h1, h2, h3, h4, h5, h6 { font-weight: bold; }
 a, a:active { color: #607890; }
-a:hover { color: #036; }
 
 
 .ir { display: block; text-indent: -999em; overflow: hidden; background-repeat: no-repeat; text-align: left; direction: ltr; }
