@@ -50,9 +50,7 @@
 .orange a, a {
     color: #f78d1d;
 }
-.orange a:hover, a:hover {
-    color: #f06015;
-}
+
 
 .button, .orange .button {
 	color: #fef4e9;

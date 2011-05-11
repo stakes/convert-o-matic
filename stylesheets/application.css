@@ -204,6 +204,8 @@ hr.section_break {
 .page_section img.right {
     
     margin-top: 12px;
+    margin-right: 10px;
+    margin-bottom: 10px;
     width: 130px;
     float: left;
     
@@ -334,6 +336,7 @@ body.whitespaced #top_container {
     background-color: rgb(255,255,255);
     color: rgb(50,50,50);
     border-bottom: 0;  
+    border-top: 1px solid rgb(200,200,200);
     padding-bottom: 60px;  
 
 }
