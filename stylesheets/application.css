@@ -10,6 +10,70 @@ body {
     
 }
 
+
+/* major overrides done through body class */
+
+body.centered #main h1 {
+    
+    text-align: center;
+
+}
+
+body.whitespaced {
+    
+    background-color: rgb(255,255,255);
+    
+}
+
+body.whitespaced #top_container {
+    
+    background-color: rgb(255,255,255);
+    color: rgb(50,50,50);
+    border-bottom: 0;  
+    padding-bottom: 60px;  
+
+}
+
+body.whitespaced #headline h1 {
+    
+    color: rgb(10,10,10);
+    text-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px;
+    padding: 18px 0;
+    
+}
+
+body.whitespaced #header {
+    
+    height: 80px;
+    background-color: rgb(240,240,240);
+    
+}
+
+body.whitespaced #info_header {
+    
+    color: rgb(10,10,10);
+    text-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px
+    
+}
+
+body.whitespaced #main,
+body.whitespaced .press_container {
+    
+    background-color: rgb(255,255,255);
+    
+}
+
+body.whitespaced .press_container {
+    
+    margin-bottom: 32px;
+    
+}
+
+/* end customization/overrides */
+
+
+
+
 h1 {
     
     font-size: 36px;
@@ -62,6 +126,7 @@ li {
     
 }
 
+
 #header_nav {
     
     text-align: right;
@@ -101,7 +166,7 @@ li {
 
 #headline h1 {
     
-    color: #fefefe;
+    color: rgb(250,250,250);
     text-shadow: 0 -1px 0 rgba(0,0,0,.25);
     
 }
@@ -120,7 +185,7 @@ li {
 
 #info_header {
     
-    color: #fefefe;
+    color: rgb(250,250,250);
     text-shadow: 0 -1px 0 rgba(0,0,0,.25);    
     padding: 24px 0;
     
@@ -142,7 +207,7 @@ a.cta {
 
 .page_section {
     
-    padding: 18px 0;
+    padding: 32px 0;
     
 }
 
