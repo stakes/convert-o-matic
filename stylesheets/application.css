@@ -452,6 +452,8 @@ body.whitebg #top_container {
     
     color: #606060;
 	background: #fff;
+	border-top: 1px solid rgb(200,200,200);     
+    border-bottom: 1px solid rgb(200,200,200);
 	
 }
 
@@ -493,4 +495,12 @@ body.blackbg.gradient #top_container {
 
 }
 
+body.whitebg #top_container,
+body.whitebg #info_header,
+body.whitebg #headline h1 {
+
+    color: rgb(10,10,10);
+    text-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px;
+            
+}
 /* end customization/overrides */
