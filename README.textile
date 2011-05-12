@@ -33,3 +33,7 @@ So, for example, you'll end up with a lovely dark, gradiated CTA area with green
 There's also a sample whitespaced.html file that demonstrates what that option looks like. It contains a few super-minor adjustments that work better with the "whitespaced" layout option.
 
 Also included are a few .psd files used for the placeholder images so you can drop your own assets into the landing page with a minimum of effort.
+
+h2. Try it TODAY!
+
+Check out "the normal layout":http://jaystakelon.com/convertomatic/ and "the 'whitespaced' layout":http://jaystakelon.com/convertomatic/whitespaced.html
