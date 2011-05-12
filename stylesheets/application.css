@@ -221,7 +221,7 @@ hr.section_break {
 .quote_container {
     
     padding: 0 0 24px;
-    background-image: url('/images/testimonial_corner.png');
+    background-image: url('../images/testimonial_corner.png');
     background-repeat: no-repeat;
     background-position: 36px bottom;
     margin: 12px 0;
