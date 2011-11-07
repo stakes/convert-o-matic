@@ -36,4 +36,4 @@ Also included are a few .psd files used for the placeholder images so you can dr
 
 h2. Try it TODAY!
 
-Check out "the normal layout":http://jaystakelon.com/convertomatic/ and "the 'whitespaced' layout":http://jaystakelon.com/convertomatic/whitespaced.html
+Check out "the normal layout":http://stakelon.com/projects/convertomatic/ and "the 'whitespaced' layout":http://stakelon.com/projects/convertomatic/whitespaced.html
