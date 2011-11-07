@@ -4,7 +4,7 @@
 
 /* TEAM */
   Template Design & Build: Jay Stakelon
-  Site: http://jaystakelon.com
+  Site: http://stakelon.com
   Twitter: @stakelon
   Location: Los Angeles, CA
 
